@@ -38,7 +38,8 @@ a {
 }
 
 div {
-  &.field, &.actions {
+  &.field, 
+  &.actions {
     margin-bottom: 10px;
   }
 }
