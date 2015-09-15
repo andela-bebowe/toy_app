@@ -1,8 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
+This is a toy app am working on while following the Rails Tutorial book by Micheal Hartl.
 Things you may want to cover:
 
 * Ruby version
